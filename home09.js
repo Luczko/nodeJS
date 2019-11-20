@@ -1,3 +1,5 @@
+// 09. Stworzyć aplikację, która wyświetli na ekranie przywitanie użytkownika aktualnie zalogowanego na komputerze po 5 sekundach od uruchomienia aplikacji.
+
 const os = require("os");
 const user = os.userInfo();
 
